@@ -1,16 +1,16 @@
-### Hi there 👋
+### Looks like you found my profile
 
-<!--
-**BattleDash/battledash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cool stuff about me I guess
+- 🔭 I’m currently working on [Polaris][polaristwitter]
+- 🌱 I’m currently learning C++/Reverse Engineering
+- ⚡ Working at the [Enlighten Network][enlighten]
 
-Here are some ideas to get you started:
+### Places to find me
+[BattleDashBR on Twitter][twitter] <br />
+[battleda.sh][mysite] <br />
+**BattleDash#0001** on Discord <br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[polaristwitter]: https://twitter.com/projectpolaris_
+[twitter]: https://twitter.com/BattleDashBR
+[mysite]: https://battleda.sh
+[enlighten]: https://enlightenmc.net
