@@ -1,8 +1,8 @@
 ### Looks like you found my profile
 
 ## Cool stuff about me I guess
-- 🔭 I’m currently working on [Polaris][polaristwitter]
-- 🌱 I’m currently learning C++/Reverse Engineering
+- 🔭 I’m currently working on [BlendMC][blendmc]
+- 🌱 I’m currently learning C++/Reverse Engineering and Machine Learning
 - ⚡ Working at the [Enlighten Network][enlighten]
 
 ### Places to find me
@@ -11,7 +11,7 @@
 [battleda.sh][mysite] <br />
 **BattleDash#0001** on Discord <br />
 
-[polaristwitter]: https://twitter.com/projectpolaris_
+[blendmc]: https://github.com/battledash/blendmc
 [youtube]: https://youtube.com/BattleDash
 [twitter]: https://twitter.com/BattleDashBR
 [mysite]: https://battleda.sh
