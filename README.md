@@ -1,7 +1,7 @@
 ### Looks like you found my profile
 
 ## Cool stuff about me I guess
-- 🔭 I’m currently working on [BlendMC][blendmc]
+- 🔭 I’m currently working on [OpenGameCamera][ogc]
 - 🌱 I’m currently learning C++/Reverse Engineering and Machine Learning
 - ⚡ Working at the [Enlighten Network][enlighten]
 
@@ -11,6 +11,7 @@
 [battleda.sh][mysite] <br />
 **BattleDash#0001** on Discord <br />
 
+[ogc]: https://github.com/coltonon/opengamecamera
 [blendmc]: https://github.com/battledash/blendmc
 [youtube]: https://youtube.com/BattleDash
 [twitter]: https://twitter.com/BattleDashBR
