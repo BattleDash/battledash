@@ -11,6 +11,10 @@
 [battleda.sh][mysite] <br />
 **BattleDash#0001** on Discord <br />
 
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=BattleDash&show_icons=true&theme=dark" alt="Github Stats"/>
+</p>
+
 [ogc]: https://github.com/coltonon/opengamecamera
 [blendmc]: https://github.com/battledash/blendmc
 [youtube]: https://youtube.com/BattleDash
