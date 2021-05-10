@@ -12,7 +12,7 @@
 **BattleDash#0001** on Discord <br />
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=BattleDash&show_icons=true&theme=dark" alt="Github Stats"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=BattleDash&show_icons=true&theme=dark&count_private=true" alt="Github Stats"/>
 </p>
 
 [ogc]: https://github.com/coltonon/opengamecamera
